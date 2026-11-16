@@ -53,7 +53,7 @@
   <a href="https://instagram.com/iqbal_arbani" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/Ahmad Iqbal Arbani" target="_blank">
+  <a href="https://linkedin.com/in/ahmad-iqbal-arbani-a40888308" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:iqbalarbani7676@gmail.com">
