@@ -3,6 +3,11 @@
 🎓 **Informatics Graduate** from Universitas Ahmad Dahlan (UAD), specializing in **Digital Forensics**, **Network Security**, and **Software Engineering**. I love bridging hardware prototyping and software automation to solve real-world operational and cybersecurity problems.
 
 ---
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iqbalarbani/Iqbalarbani/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iqbalarbani/Iqbalarbani/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iqbalarbani/Iqbalarbani/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ### 🚀 About Me
 - 🔭 **Currently working on:** Network automation & wireless security research, logistics/technical operations systems, and full-stack web tools.
@@ -40,11 +45,7 @@
 </p> -->
 
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iqbalarbani/Iqbalarbani/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iqbalarbani/Iqbalarbani/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Iqbalarbani/Iqbalarbani/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+
 
 ### 📫 Connect with Me
 
