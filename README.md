@@ -36,6 +36,7 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
+
 ---
 
 <!-- ### 📊 GitHub Stats
@@ -44,7 +45,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbalarbani&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 </p> -->
 
-
+<!-- ini watermark saya hehe -->
 
 
 ### 📫 Connect with Me
