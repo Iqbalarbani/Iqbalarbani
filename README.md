@@ -2,6 +2,7 @@
 
 🎓 **Informatics Graduate** from Universitas Ahmad Dahlan (UAD), specializing in **Digital Forensics**, **Network Security**, and **Software Engineering**. I love bridging hardware prototyping and software automation to solve real-world operational and cybersecurity problems.
 
+
 ---
 
 <picture data-importer="pacman">
